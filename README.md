@@ -4,7 +4,7 @@ A project to find the winner of a surf heat in JavaScript
 
 Problem Statment:
 
-Nowadays, in Brazil, doesn't exist a system to provide scores management of a surf championship, everything is done manually, on paper.
+Nowadays small cities, in Brazil, doesn't have a system to provide scores management of a surf championship, everything is done manually, on paper.
 
 
 Proposed Solution:
