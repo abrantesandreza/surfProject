@@ -3,7 +3,7 @@
 A project to find the winner of a surf heat in JavaScript
 
 
-## Problem Statement:
+## Problem Statement
 
 Nowadays small cities, in Brazil, doesn't have a system to provide scores management of a surf championship, everything is done manually, on paper.
 
